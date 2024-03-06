@@ -1,4 +1,3 @@
-# Ecommerce--NextJS
 Instructions to Run the Project
 
 1 Download Repository ZIP:
