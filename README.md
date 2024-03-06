@@ -75,3 +75,5 @@ Implementations in the Web App:
 
   Integrated a powerful charting library to visualize product distribution by categories.
   Generated an informative pie chart that accurately represents the distribution of products across various categories.
+
+6 Cart and Profile Functionality
